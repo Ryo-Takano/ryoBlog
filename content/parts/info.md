@@ -2,4 +2,13 @@
 title: info
 ---
 
-I am a front-end web developer. I used to be a web designer too, but now I concentrate on the code.
+社会人2年目のエンジニアです。ランニングやITについての記事を書きます。
+目標はサブスリー！まずはハーフマラソン90分切りを目指します。
+
+ランニング開始　2018年
+フルマラソン：　未経験
+ハーフマラソン：
+- 2018/12  MINATOシティハーフマラソン 
+- 2019/03  三浦国際市民マラソン
+- 2019/06  伊豆稲取キンメマラソン
+- 2019/12  横須賀シーサイドマラソン
