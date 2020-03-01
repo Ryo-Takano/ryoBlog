@@ -2,36 +2,16 @@
 title: About
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+# ランニング
+ランニングを開始したのは2018年頃から。  
+現在は月間走行距離100kmを目安にランニングをしています。  
+普段は横浜のみなとみらいを中心に走っています。  
+目標はサブスリー！まずはハーフマラソン90分切りを目指します。  
 
-### Standard features:
-
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* **PWA** (manifest.json, offline support, favicons)
-* Google **Analytics**
-* **Favicons** generator (node script)
-* **Material UI** (@next)
-
-### Advanced features:
-
-* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
-* **Components** lazy loading (social sharing, comments)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Custom webpack `CommonsChunkPlugin` settings
-* Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator)
-
-## Instructions
-
-For detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).
+フルマラソン：　未経験
+ハーフマラソン：
+- 2018/12  MINATOシティハーフマラソン 
+- 2019/03  三浦国際市民マラソン
+- 2019/06  伊豆稲取キンメマラソン
+- 2019/12  横須賀シーサイドマラソン

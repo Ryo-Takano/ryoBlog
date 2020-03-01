@@ -7,13 +7,13 @@ module.exports = {
   siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
-  siteLanguage: "en",
+  siteLanguage: "jp",
   // author
   authorName: "ryo takano",
   // authorTwitterAccount: "greglobinski",
   // info
-  infoTitle: "greg lobinski",
-  infoTitleNote: "personal blog",
+  infoTitle: "ryo takano",
+  infoTitleNote: "run tech blog",
   // manifest.json
   manifestName: "PersonalBlog - a blog starter for GatsbyJS",
   manifestShortName: "PersonalBlog", // max 12 characters
@@ -22,7 +22,7 @@ module.exports = {
   manifestThemeColor: colors.background,
   manifestDisplay: "standalone",
   // contact
-  contactEmail: "john@doe.com",
+  contactEmail: "ryo4060@gmail.com",
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/greglobinski" },
