@@ -7,7 +7,7 @@ module.exports = {
   siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
-  siteLanguage: "jp",
+  siteLanguage: "ja",
   // author
   authorName: "ryo takano",
   // authorTwitterAccount: "greglobinski",
